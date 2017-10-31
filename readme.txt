@@ -1,4 +1,5 @@
 Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
-t.tt => smartisan phone
+t.tt => smartisan phone. I feels happy for lao luo.
+a day need remember.
