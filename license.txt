@@ -1,2 +1,3 @@
-author: LYU
-all rights reserved.
+Author: LYU
+All rights reserved.
+Git is great than SVN.
