@@ -1,2 +1,3 @@
 author: Christophe lyu
 all rights reserved.
+Git is great than SVN.
