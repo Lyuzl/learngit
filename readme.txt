@@ -3,6 +3,4 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 t.tt => smartisan phone.
 
-Creating a new branch is quick.
-
-Do some modify in dev branch.
+Creating a new branch is quick & simple.
