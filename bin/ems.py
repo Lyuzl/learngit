@@ -1,2 +1,2 @@
 --*-- encoding: utf-8 --*--
-print("haha");
+print("This is the first line.");
